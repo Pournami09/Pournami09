@@ -1,4 +1,4 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 7%> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Pournami09.Pournami09)
@@ -55,7 +55,5 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
-
-<br>
 <footer align='center'>Thank you for watching! Here's a gif for you 
 <img align="center" src="https://media.giphy.com/media/5xtDarmwsuR9sDRObyU/giphy.gif" /></footer>
