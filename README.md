@@ -1,10 +1,10 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 7%> </h1>
+<h1> Hello! </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Pournami09.Pournami09)
 
 </p>
-<div size='20px'> Hi! My name is Pournami Pottekat. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me </h2>
