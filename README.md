@@ -39,21 +39,3 @@
 <a href = 'https://www.linkedin.com/in/pournamipottekat'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/@poro0903'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/Pournami09'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-
-
-<h2> My GitHub Stats </h2>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Pournami09&count_private=true&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pournami09&theme=dark" />
-</a>
-
-<h2> Some Programming Humor for you </h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-<footer align='center'>Thank you for watching! Here's a gif for you 
-<img align="center" src="https://media.giphy.com/media/5xtDarmwsuR9sDRObyU/giphy.gif" /></footer>
