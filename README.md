@@ -1,7 +1,7 @@
 <h1> Hello! </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Pournami09.Pournami09)
+
 
 </p>
 <div size='20px'> Thank You for taking the time to view my GitHub Profile :smile: 
