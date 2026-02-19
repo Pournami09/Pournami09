@@ -1,8 +1,8 @@
-<h1> hi, i'm Pournami. i also go by the name Poro. </h1>
+<h1> hi, i'm Pournami.  </h1>
 <p align='center'>
 
 </p>
-<div size='20px'> welcome to my corner on the internet :smile: 
+<div size='20px'> welcome to my corner on the internet! i also go by the name Poro. :smile: 
 </div>
 
 <h2> about me </h2>
